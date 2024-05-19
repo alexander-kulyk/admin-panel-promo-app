@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/admin-panel-promo-app/static/js/main.3e7cb561.js",
+    "main.js": "/admin-panel-promo-app/static/js/main.6ab50872.js",
     "static/js/453.bf784568.chunk.js": "/admin-panel-promo-app/static/js/453.bf784568.chunk.js",
     "index.html": "/admin-panel-promo-app/index.html",
-    "main.3e7cb561.js.map": "/admin-panel-promo-app/static/js/main.3e7cb561.js.map",
+    "main.6ab50872.js.map": "/admin-panel-promo-app/static/js/main.6ab50872.js.map",
     "453.bf784568.chunk.js.map": "/admin-panel-promo-app/static/js/453.bf784568.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3e7cb561.js"
+    "static/js/main.6ab50872.js"
   ]
 }
