@@ -23,15 +23,29 @@ export const Label = styled.label`
   letter-spacing: 0.01em;
   text-decoration: none;
   color: black;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 `;
 
 export const Input = styled.input`
   height: 30px;
-  border: 1px solid grey;
+  border: 1px solid rgb(191, 190, 190);
   border-radius: 10px;
+  padding-left: 20px;
 `;
 
 export const Textarea = styled.textarea``;
 
-export const Button = styled.button``;
+export const Button = styled.button`
+  font-family: Quicksand;
+  height: 30px;
+  width: 100px;
+  margin-top: 5px;
+  color: white;
+  background-color: rgb(4, 120, 128);
+  border: 0.5px solid rgb(216, 214, 214);
+  border-radius: 10px;
+  cursor: pointer;
+  &:hover {
+    background-color: rgb(3 100 106);
+  }
+`;
